@@ -1,0 +1,94 @@
+body{
+    margin: 0;
+}
+/* -- header section --*/
+.font-face{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#header {
+    background-color: #333;
+    padding: 220px;
+
+}
+.logo-div {
+    display: inline-block;
+}
+.items-div {
+    display: inline-block;
+    float: right;
+}
+.item {
+     color: #fff;
+     text-decoration: none;
+     margin-left: 20px;
+}
+/* About section styling */
+#about-section{
+    padding: 40px;
+}
+.text-div {
+    display: inline-block;
+
+}
+
+.about-text{
+    color: #bd0000;
+}
+
+.img-div{
+    display: inline-block;
+    float: right;
+    margin-top: 40px;
+}
+/* course section styling */
+#course-section{
+    padding: 30px;
+    margin-top: 50px;
+
+
+}
+.first-course{
+    display: inline-block;
+}
+.sub {
+    color: aqua;
+}
+.second-course{
+    display: inline-block;
+    float: right;
+
+}
+.song {
+    color: #bd0000;
+}
+.main-text{
+    margin: 0 40%
+
+}
+ .main-text{
+    margin: 0px auto;
+}
+/* footer styling  */
+#footer{
+    padding: 50px ;
+    background-color: #333;
+}
+
+.f-left {
+    display: inline-block;
+}
+.f-right{
+    display: inline-block;
+    float: right;
+}
+.f-text{
+    color: rgb(16, 162, 48);
+}
+.f-link{
+    color: bisque;
+    font-weight: 600;
+    text-decoration: none;
+
+}
+/* .footer styling end */
