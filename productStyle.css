@@ -7,8 +7,8 @@ body{
 }
 
 #header {
-    background-color: #333;
-    padding: 220px;
+    background-color: #bb3030;
+    padding: 15px;
 
 }
 .logo-div {
@@ -25,11 +25,11 @@ body{
 }
 /* About section styling */
 #about-section{
-    padding: 40px;
+    padding: 80px;
 }
 .text-div {
     display: inline-block;
-
+    padding: 4x;
 }
 
 .about-text{
@@ -43,25 +43,33 @@ body{
 }
 /* course section styling */
 #course-section{
-    padding: 30px;
+    padding: 70px;
     margin-top: 50px;
 
 
 }
 .first-course{
     display: inline-block;
+    float: left;
 }
 .sub {
     color: aqua;
 }
-.second-course{
+
+.course-section {
+    padding: 70px;
+}
+.web-developer{
     display: inline-block;
-    float: right;
 
 }
-.song {
-    color: #bd0000;
+
+.web-developers{
+    display: inline-block;
+    float: right;
 }
+
+
 .main-text{
     margin: 0 40%
 
@@ -71,12 +79,13 @@ body{
 }
 /* footer styling  */
 #footer{
-    padding: 50px ;
-    background-color: #333;
+    padding: 70px ;
+    background-color: rgb(25, 25, 31);
 }
 
 .f-left {
     display: inline-block;
+    
 }
 .f-right{
     display: inline-block;
@@ -87,7 +96,7 @@ body{
 }
 .f-link{
     color: bisque;
-    font-weight: 600;
+    font-weight: 200px;
     text-decoration: none;
 
 }
